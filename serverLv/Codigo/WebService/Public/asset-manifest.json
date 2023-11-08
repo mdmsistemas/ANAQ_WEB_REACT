@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ANAQ/static/css/main.c5fa6883.chunk.css",
+    "main.js": "/ANAQ/static/js/main.301c5254.chunk.js",
+    "main.js.map": "/ANAQ/static/js/main.301c5254.chunk.js.map",
+    "runtime-main.js": "/ANAQ/static/js/runtime-main.9d906a76.js",
+    "runtime-main.js.map": "/ANAQ/static/js/runtime-main.9d906a76.js.map",
+    "static/css/2.386c2e57.chunk.css": "/ANAQ/static/css/2.386c2e57.chunk.css",
+    "static/js/2.4b4fef78.chunk.js": "/ANAQ/static/js/2.4b4fef78.chunk.js",
+    "static/js/2.4b4fef78.chunk.js.map": "/ANAQ/static/js/2.4b4fef78.chunk.js.map",
+    "static/js/3.1a22ff43.chunk.js": "/ANAQ/static/js/3.1a22ff43.chunk.js",
+    "static/js/3.1a22ff43.chunk.js.map": "/ANAQ/static/js/3.1a22ff43.chunk.js.map",
+    "index.html": "/ANAQ/index.html",
+    "static/css/2.386c2e57.chunk.css.map": "/ANAQ/static/css/2.386c2e57.chunk.css.map",
+    "static/css/main.c5fa6883.chunk.css.map": "/ANAQ/static/css/main.c5fa6883.chunk.css.map",
+    "static/js/2.4b4fef78.chunk.js.LICENSE.txt": "/ANAQ/static/js/2.4b4fef78.chunk.js.LICENSE.txt",
+    "static/media/all.css": "/ANAQ/static/media/fa-solid-900.eeccf4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d906a76.js",
+    "static/css/2.386c2e57.chunk.css",
+    "static/js/2.4b4fef78.chunk.js",
+    "static/css/main.c5fa6883.chunk.css",
+    "static/js/main.301c5254.chunk.js"
+  ]
+}
